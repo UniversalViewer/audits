@@ -24,6 +24,12 @@ element.style.left
 element.style.top
 ```
 
+### empty()
+
+```
+element.innerHTML = ''
+```
+
 ### fadeOut(speed)
 
 ```
@@ -51,7 +57,7 @@ element.querySelector(selector)
 ### height()
 
 ```
-element.offsetHeight()
+element.offsetHeight
 ```
 
 ### hide()
@@ -87,5 +93,5 @@ element.classList.toggle('MyClass')
 ### width()
 
 ```
-element.offsetWidth()
+element.offsetWidth
 ```
