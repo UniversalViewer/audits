@@ -60,6 +60,12 @@ element.querySelector(selector)
 element.offsetHeight
 ```
 
+### height(value)
+
+```
+element.style.height
+```
+
 ### hide()
 
 ```
@@ -94,4 +100,10 @@ element.classList.toggle('MyClass')
 
 ```
 element.offsetWidth
+```
+
+### width(value)
+
+```
+element.style.width
 ```
