@@ -2,19 +2,19 @@
 ### addClass(class)
 
 ```
-element.classList.add('MyClass')
+element.classList.add('class')
 ```
 
 ### append(HTMLElement)
 
 ```
-element.appendChild(aChild)
+element.appendChild(HTMLElement)
 ```
 
 ### appendTo(HTMLElement)
 
 ```
-element.appendChild(aChild)
+element.appendChild(HTMLElement)
 ```
 
 ### css({ left: leftValue, top: topValue })
@@ -63,7 +63,7 @@ element.offsetHeight
 ### height(value)
 
 ```
-element.style.height
+element.style.height = value
 ```
 
 ### hide()
@@ -81,7 +81,7 @@ element.addEventListener('event', function)
 ### removeClass(class)
 
 ```
-element.classList.remove('MyClass')
+element.classList.remove('class')
 ```
 
 ### show()
@@ -93,7 +93,7 @@ element.style.visibility = "visible"
 ### toggleClass(class)
 
 ```
-element.classList.toggle('MyClass')
+element.classList.toggle('class')
 ```
 
 ### width()
@@ -105,5 +105,5 @@ element.offsetWidth
 ### width(value)
 
 ```
-element.style.width
+element.style.width = value
 ```
