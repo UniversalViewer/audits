@@ -84,6 +84,12 @@ element.style.visibility = "hidden"
 element.addEventListener('event', function)
 ```
 
+### remove()
+
+```
+https://developer.mozilla.org/en-US/docs/Web/API/ChildNode/remove
+```
+
 ### removeClass(class)
 
 ```
