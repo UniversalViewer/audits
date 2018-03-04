@@ -17,6 +17,12 @@ element.appendChild(HTMLElement)
 element.appendChild(HTMLElement)
 ```
 
+### closest(selector)
+
+```
+https://github.com/jonathantneal/closest
+```
+
 ### css({ left: leftValue, top: topValue })
 
 ```
